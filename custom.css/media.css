@@ -1,0 +1,380 @@
+@media (max-width: 1399px) {
+    .navbar-brand{
+        font-size: 30px;
+    }
+    h1{
+        font-size: 54px;
+        line-height: 60px;
+    }
+    .header span{
+        font-size: 54px;
+        line-height: 60px;
+    }
+    .header p {
+        padding: 0 200px;
+    }
+    .w-100 {
+        width: 88%!important;
+    }
+    .grayscale img {
+        width: 140px;
+    }
+    .featurebox {
+        max-width: 260px;
+        padding: 25px 10px 25px;
+    }
+}
+@media (max-width: 1199px) {
+    .nav-link {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    h1{
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .header span{
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .btn {
+        width: 172px;
+        height: 60px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .w-100 {
+        width: 82%!important;
+    }
+    .aboutusswction h2 {
+        font-size: 38px;
+        line-height: 45px;
+    }
+    .featuresection h2 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .featurebox {
+        max-width: 225px
+    }
+    .featurebox h3 {
+        font-size: 40px;
+        line-height: 35px;
+    }
+    .iconimg {
+        width: 180px;
+        height: 180px;
+    }
+    .iconimg img {
+        width: 38px;
+    }
+    .iconimg h2 {
+        font-size: 30px;
+        line-height: 20px;
+    }
+    .iconimg span {
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .grayscale img {
+        width: 125px;
+    }
+    .footersection .footerdesign {
+        padding: 20px 0;
+    }
+    .footersection span {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+@media (max-width: 991px) {
+    .py-5 {
+        padding-top: 2rem!important;
+        padding-bottom: 2rem!important;
+    }
+    .navbar-brand {
+        font-size: 25px;
+    }
+    h1 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+    .header span {
+        font-size: 44px;
+        line-height: 50px;
+    }
+    .header p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0 100px;
+    }
+    
+    .btn {
+        width: 156px;
+        height: 50px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .aboutusswction h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .aboutusswction p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .btn {
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .aboutusswction {
+        padding: 60px 0 !important;
+    }
+    .featuresection {
+        padding: 25px 0;
+    }
+    .featuresection h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .featuresection p {
+        line-height: 25px;
+    }
+    .featurebox h3 {
+        font-size: 35px;
+        line-height: 18px;
+    }
+    .featurebox span {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .featurebox {
+        max-width: 175px;
+    }
+    .featurebox {
+        transform: translate(-96px, -78px);
+    }
+    .icontitle h2 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .icontitle p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .iconbox {
+        padding: 20px 0;
+    }
+    .iconimg {
+        width: 150px;
+        height: 160px;
+    }
+    .iconimg img {
+        width: 28px;
+    }
+    .iconimg h2 {
+        font-size: 22px;
+        line-height: 16px;
+    }
+    .iconimg span {
+        font-size: 8px;
+    }
+    .grayscale img {
+        width: 100px !important;
+    }
+    .footersection span {
+        font-size: 14px;
+    }
+    .footersection {
+        padding: 25px 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-brand {
+        font-size: 22px;
+    }
+    h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .header span  {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .header p {
+        padding: 0;
+    }
+    .p-5 {
+        text-align: center;
+    }
+    .p-5 {
+        padding: 2rem!important;
+    }
+    .about {
+        padding: 55px;
+    }
+    .aboutusswction {
+        padding: 20px 0 !important;
+    }
+    .pe-5 {
+        padding-right: 1rem!important;
+        padding: 20px;
+    }
+    .featuresection h2 {
+        font-size: 26px;
+        line-height: 40px;
+        width: 400px;
+        margin: auto;
+    }
+    .custom {
+        text-align: center;
+    }
+    .featuresimg {
+        width: 75%;
+        margin: auto;
+    }
+    .featurebox {
+        transform: translate(100px, -53px);
+    }
+    .featurebox h3 {
+        font-size: 30px;
+    }
+    .icoimg {
+        padding: 0 50px;
+    }
+    .iconimg {
+        width: 170px;
+        height: 170px;
+    }
+    .iconimg img {
+        width: 30px;
+    }
+    .iconimg h2 {
+        font-size: 28px;
+        line-height: 20px;
+    }
+    .iconimg span {
+        font-size: 10px;
+    }
+    .banerhero {
+        margin-bottom: 45px;
+    }
+    .grayscale img {
+        width: 75px !important;
+    }
+    .footersection .footerdesign {
+        padding: 15px 0;
+    }
+    .footersection span {
+        font-size: 11px;
+    }
+}
+
+
+@media (max-width: 575px) {
+    .navbar-brand {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 28px;
+        line-height: 31px;
+    }
+    .header span  {
+        font-size: 28px;
+        line-height: 31px;
+    }
+    .header p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .btn {
+        width: 130px;
+        height: 48px;
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .btn {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+    .about {
+        padding: 20px !important;
+    }
+    .featuresection h2 {
+        font-size: 22px;
+        line-height: 28px;
+        width: 240px;
+        margin-bottom: 15px;
+    }
+    .aboutusswction h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .aboutusswction p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .aboutusswction {
+        padding: 15px 0 !important;
+    }
+    .featuresection p {
+        line-height: 20px;
+    }
+    .featuresection p {
+        font-size: 13px;
+    }
+    .featurebox h3 {
+        font-size: 25px;
+        line-height: 10px;
+    }
+    .featurebox span {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .featurebox {
+        max-width: 130px;
+        height: 80px;
+    }
+    .featurebox {
+        transform: translate(44px, -40px);
+    }
+    .icoimg {
+        margin-top: -20px;
+    }
+    .icontitle h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .icontitle p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .endbanner {
+        margin-bottom: 45px;
+    }
+    .iconimg img {
+        width: 35px;
+    }
+    .iconimg h2 {
+        font-size: 35px;
+        line-height: 18px;
+    }
+    .designitem {
+        display: block;
+        margin-top: -20px;
+    }
+    .grayscale img {
+        width: 170px !important;
+        margin-bottom: 40px;
+    }
+    .margindesign {
+        margin-bottom: -62px !important;
+    }
+    .footersection .footerdesign {
+        padding: 8px 30px;
+    }
+    .footersection span {
+        font-size: 12px;
+    }
+}

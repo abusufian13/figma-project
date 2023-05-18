@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+:root{
+    --prymari-color: #FF900E1A;
+    --secondarry-color: #FD646F;
+    --third-color: #131313;
+    --four-color: #727272;
+
+}
+.navbar, .header{
+    background-color: var(--prymari-color);
+}
+.navbar-brand{
+    color: var(--third-color);
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 53px;
+}
+.navbar-brand span{
+    color: var(--secondarry-color);
+}
+.nav-link{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-transform: capitalize;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+}
+.nav-link:hover{
+    color: var(--secondarry-color);
+}
+h1{
+    color: var(--third-color);
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 68px;
+}
+.header span {
+    display: block;
+    color: var(--secondarry-color);
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 68px;
+}
+.header p {
+    color: var(--four-color);
+    padding: 0 132px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.btn{
+    width: 180px;
+    height: 64px;
+    background: var(--secondarry-color);
+    border-radius: 8px;
+    font-size: 20px;
+    line-height: 23px;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.btn:hover{
+    background-color: var(--third-color);
+    color: #fff;
+}
+.aboutusswction{
+    padding: 85px 0 !important;
+}
+.aboutusswction h2{
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+    color: var(--four-color);
+
+}
+.aboutusswction h2 b{
+    color: var(--third-color);
+}
+.aboutusswction h2 strong{
+    color: var(--secondarry-color);
+}
+.aboutusswction p{
+    color: var(--four-color);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.about{}
+.featuresection{
+    padding: 50px 0;
+}
+.featuresection, .row {
+    justify-content: space-between;
+}
+.featuresection h2 {
+    color: var(--third-color);
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    max-width: 400px;
+    border-left: 8px solid #FD646F;
+    padding-left: 11px;
+}
+.featuresection p{
+    color: var(--four-color);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.custom{}
+.featuresimg{}
+.card{
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+}
+.card-body{
+    padding: 20px;
+}
+.card-title{
+    color: var(--third-color);
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+.card-text{
+    color: var(--four-color);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.featurebox {
+    background: var(--secondarry-color);
+    border-radius: 8px;
+    text-align: center;
+    max-width: 280px;
+    padding: 35px 10px 25px;
+    transform: translate(-100px, -100px);
+}
+.featurebox h3 {
+    font-weight: 700;
+    font-size: 53px;
+    line-height: 57px;
+    color: #fff;
+}
+.featurebox span{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #fff;
+}
+.iconbox{
+    padding: 50px 0;
+}
+.icontitle{
+    max-width: 550px;
+    text-align: center;
+    margin: 0 auto 80px;
+}
+.icontitle h2{
+    color: var(--third-color);
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+}
+.icontitle p{
+    color: var(--four-color);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.iconimg{
+    border: 1px solid #FD646F;
+    border-radius: 8px;
+    padding: 45px 40px 60px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+.icoimg{}
+.iconimg img{
+    margin-bottom: 10px;
+}
+.iconimg h2{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 32px;
+    color: var(--third-color);
+}
+.endbanner{}
+.iconimg span{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--four-color);
+}
+.banerhero{}
+.logosection{
+    padding: 50px 0;
+}
+.designitem{}
+.footersection {
+    padding: 50px 0;
+}
+.margindesign{}
+.footersection .footerdesign{
+    background: var(--secondarry-color);
+    border-radius: 8px;
+    padding: 30px 0;
+}
+.footersection span{
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+.grayscale img{
+    filter: grayscale(1);
+}
+
